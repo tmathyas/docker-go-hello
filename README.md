@@ -1,1 +1,1 @@
-# docker-go-hello
+docker run tiaraju/fullcycle
